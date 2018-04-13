@@ -1,4 +1,6 @@
 export MOVIE_API_KEY=114958fcf3514ab064e1847abb6bbda5
 export SECRET_KEY=peterpolle
+export MAIL_USERNAME=7c1211d8c187ca
+export MAIL_PASSWORD=e40f6b91394411
 
 python3.6 manage.py server
